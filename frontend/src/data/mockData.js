@@ -3,6 +3,11 @@ export const mockUser = {
   role: "Consumer",
   avatarUrl: "https://lh3.googleusercontent.com/aida-public/AB6AXuBxU3o2jxlIAqwkZPJIYB0T4ZTlQoF1JxqwzCv6U2Wr2u0jnZo4RxvHJAjDLRCKNCzQpNot5DIjnBZhJOsp6nKW2SSXPerIu6unvrgPrGeS-wUED_pAwxQ7TV2xsN048VYevC0sI5D0GlkdfQYKmMeAKBiKJzJifXbXeQittFrRxePJRhwVaj88Gk7rwBDvWeHtyvJthsbWfwGielePP3nAA8S3ZFMA6ANW2VhPfhJswjioUUIz5jz8Vw"
 };
+export const realUser = {
+  name: "Arshad khan",
+  role: "Consumer",
+  avatarUrl: "https://lh3.googleusercontent.com/aida-public/AB6AXuBxU3o2jxlIAqwkZPJIYB0T4ZTlQoF1JxqwzCv6U2Wr2u0jnZo4RxvHJAjDLRCKNCzQpNot5DIjnBZhJOsp6nKW2SSXPerIu6unvrgPrGeS-wUED_pAwxQ7TV2xsN048VYevC0sI5D0GlkdfQYKmMeAKBiKJzJifXbXeQittFrRxePJRhwVaj88Gk7rwBDvWeHtyvJthsbWfwGielePP3nAA8S3ZFMA6ANW2VhPfhJswjioUUIz5jz8Vw"
+};
 
 export const dashboardStats = {
   totalScanned: 128,
